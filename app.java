@@ -8,3 +8,20 @@ public class CheckEvenOdd {
         }
     }
 }
+
+// TBelow code is developed by developer 2//
+
+public class LargestOfThree {
+    public static void main(String[] args) {
+        int a = 15, b = 25, c = 10;
+        int largest = a;
+
+        if (b > largest) {
+            largest = b;
+        }
+        if (c > largest) {
+            largest = c;
+        }
+        System.out.println("The largest number is: " + largest);
+    }
+}
