@@ -9,7 +9,7 @@ public class CheckEvenOdd {
     }
 }
 
-// TBelow code is developed by developer 2//
+// Below code is Pushed by developer 2//
 
 public class LargestOfThree {
     public static void main(String[] args) {
